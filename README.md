@@ -1,1 +1,1 @@
-# spotify-data-analysis
+# Spotify Data Analysis
