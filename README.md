@@ -8,11 +8,11 @@ This project explores the factors that contribute to a song's popularity on Spot
 ## Dataset
 - Source: [Kaggle](https://www.kaggle.com/) - [Spotify Tracks Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks): tracks.csv
 - Fields Used:
--     popularity
--     danceability
--     energy
--     valence
--     tempo
--     acousticness
--     loudness
--     release_date
+    - popularity
+    - danceability
+    - energy
+    - valence
+    - tempo
+    - acousticness
+    - loudness
+    - release_date
