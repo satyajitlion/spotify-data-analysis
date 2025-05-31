@@ -29,3 +29,18 @@ This project explores the factors that contribute to a song's popularity on Spot
 ### Trends Over Time
 #### Line plots showing how key audio features and popularity have evolved over the years:
 (need to attach)
+
+## Key Findings
+- Popular songs tend to have higher energy and danceability.
+- Acousticness is lower in popular songs.
+- Trends show a gradual increase in tempo and valence over the years.
+
+## Next Steps
+- Explore artist-level or genre-level trends.
+- Use machine learning to predict popularity.
+- Integrate additional metadata like genre or lyrics.
+
+## Technologies Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook / VSCode
+- CSV data format
