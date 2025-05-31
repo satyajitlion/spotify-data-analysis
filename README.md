@@ -22,11 +22,11 @@ This project explores the factors that contribute to a song's popularity on Spot
 - Converted `release_date` to a datetime format and extracted the year for time-based analysis.
 
 ## Exploratory Data Analysis (EDA)
-### Popular vs. Unpopular Songs
+### a. Popular vs. Unpopular Songs
 #### Bar chart comparing average audio features of popular (popularity > 80) and unpopular songs:
 (need to attach)
 
-### Trends Over Time
+### b. Trends Over Time
 #### Line plots showing how key audio features and popularity have evolved over the years:
 (need to attach)
 
