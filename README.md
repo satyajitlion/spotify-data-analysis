@@ -1,4 +1,4 @@
-# Spotify (Track) Dataset Analysis 
+# Spotify Dataset Analysis
 This project explores the factors that contribute to a song's popularity on Spotify using a dataset of audio features and metadata. By comparing popular and less-popular tracks, we aim to identify the characteristics most associated with success on the platform.
 
 ## Problem Statement
