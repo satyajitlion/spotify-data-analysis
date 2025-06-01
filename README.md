@@ -27,30 +27,12 @@ This project explores the factors that contribute to a song's popularity on Spot
 
 ![FigureMeans](images/means_pop_vs_unpop.jpg)
 
-
-#### a.) Comparing Danceability
-![FigureA](images/danceability_box.jpg)
-![FigureA2](images/danceability_density.jpg)
-
-#### b.) Comparing Energy
-![FigureB](images/energy_box.jpg)
-![FigureB2](images/energy_density.jpg)
-
-#### c.) Comparing Valence (emotional positivity or negativity)
-![FigureC](images/valence_box.jpg)
-![FigureC2](images/valence_density.jpg)
-
-#### d.) Comparing Tempo
-![FigureD](images/tempo_box.jpg)
-![FigureD2](images/tempo_density.jpg)
-
-#### e.) Comparing Acousticness
-![FigureE](images/acousticness_box.jpg)
-![FigureE2](images/acousticness_density.jpg)
-
-#### f.) Comparing Loudness
-![FigureF](images/loudness_box.jpg)
-![FigureF2](images/loudness_density.jpg)
+##### a.) Comparing Danceability
+##### b.) Comparing Energy
+##### c.) Comparing Valence (emotional positivity or negativity)
+##### d.) Comparing Tempo
+##### e.) Comparing Acousticness
+##### f.) Comparing Loudness
 
 ### 2. Trends Over Time
 #### Line plots showing how key audio features and popularity have evolved over the years:
