@@ -27,13 +27,13 @@ This project explores the factors that contribute to a song's popularity on Spot
 
 ![FigureMeans](images/means_pop_vs_unpop.jpg)
 
-### Also compared the following features for popular vs unpopular songs:
-- a.) Comparing `Danceability` for popular vs. unpopular songs
-- b.) Comparing `Energy` for popular vs. unpopular songs
-- c.) Comparing `Valence` (emotional positivity or negativity) for popular vs. unpopular songs
-- d.) Comparing `Tempo` for popular vs. unpopular songs
-- e.) Comparing `Acousticness` for popular vs. unpopular songs
-- f.) Comparing `Loudness` for popular vs. unpopular songs
+### Also compared the following features for popular vs unpopular songs (check the [spotify_eda.ipynb](spotify_eda.ipynb) file):
+- `Danceability` for popular vs. unpopular songs
+- `Energy` for popular vs. unpopular songs
+- `Valence` (emotional positivity or negativity) for popular vs. unpopular songs
+- `Tempo` for popular vs. unpopular songs
+- `Acousticness` for popular vs. unpopular songs
+- `Loudness` for popular vs. unpopular songs
 
 ### 2. Tracking Trends Over Time
 #### Line plots showing how key audio features and popularity have evolved over the years:
