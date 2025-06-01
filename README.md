@@ -6,7 +6,7 @@ This project explores the factors that contribute to a song's popularity on Spot
 #### In this project, I aim to investigate which audio features (like danceability, energy, or tempo) are most correlated with high popularity scores and how these traits have evolved over time.
 
 ## Dataset
-- Source: [Kaggle](https://www.kaggle.com/) - [Spotify Tracks Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks): tracks.csv
+- Source: [Kaggle](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks) - [Spotify Tracks Dataset: tracks.csv](spotify_data/tracks.csv)
 - Fields Used:
     - `popularity`
     - `danceability`
